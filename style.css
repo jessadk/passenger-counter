@@ -68,3 +68,12 @@
     color: #E86A33;
     padding: 0;
   }
+
+@media (max-width: 375px){
+.container {
+    padding: 20px;
+  }
+  #increment-btn {
+      margin-right: 0;
+  }
+}
