@@ -27,7 +27,8 @@ saveBtn.addEventListener('click', () => {
 resetBtn.addEventListener('click', ()=>{
   count = 0;
   saveArray = [];
+  total = 0;
   countEl.innerText = count;
   saveEl.innerText = "Previous Entries: -";
-   totalEl.innerText = "Total Passengers: -";
+  totalEl.innerText = "Total Passengers: -";
 });
