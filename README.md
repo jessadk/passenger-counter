@@ -1,6 +1,6 @@
 # Passenger Counter Web App: Track and Save Passenger Counts
 
-![](./screenshot.jpg) 
+![](./screenshot.png) 
 
 ## Table of contents
 
@@ -19,7 +19,7 @@ This JavaScript project is a simple passenger count application. It provides the
 
 ### Links
 
-- [Live Demo](https://passenger-counter-five.vercel.app/)
+- [Live Demo](https://passenger-counter-five.vercel.app/){:target=”_blank”}
 
 ## My Process
 
@@ -38,7 +38,7 @@ This JavaScript project is a simple passenger count application. It provides the
 - Jesse Adkins, Junior Frontend Developer
 - Email: jesse@jesseadkins.com
 - [Portfolio](https://www.jesseadkins.com)
-- [LinkedIn](www.linkedin.com/in/adkinsjesse)
+- [LinkedIn](https://www.linkedin.com/in/adkinsjesse)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/jessadk)
 
 
