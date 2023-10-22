@@ -19,7 +19,7 @@ This JavaScript project is a simple passenger count application. It provides the
 
 ### Links
 
-- [Live Demo](https://passenger-counter-five.vercel.app/){:target=”_blank”}
+- [Live Demo](https://passenger-counter-five.vercel.app/)
 
 ## My Process
 
